@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Omni-Easy",
+  "description": "A radically simple, all-in-one AI interface powered by the latest Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
